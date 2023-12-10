@@ -1,0 +1,27 @@
+.footer-contenier{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    width: 97%;
+    background-color: #282828;
+    height: 65px;
+    padding: 20px;
+}
+
+
+.footer__center{
+    flex : 0.3;
+    padding: 0 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    max-width: 300px;
+}
+.footer__left{
+    flex: 0.4
+}
+.footer__right{
+    flex: 0.3
+}

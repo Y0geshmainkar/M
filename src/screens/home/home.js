@@ -7,6 +7,7 @@ import Player from '../player/player'
 import Trending from '../Trending/trending'
 import './home.css'
 import Sidebar from '../../components/sidebar/sidebar'
+import Login from '../login/login'
 
 export default function Home() {
   return (
