@@ -1,0 +1,10 @@
+.player_body{
+    display: flex;
+}
+
+.body-contenier{
+    padding: 30px;;
+    flex: 0.8;
+    height: 100vh;
+    background: linear-gradient(rgb(91, 87, 115), rgba(0,0,0,1));
+}
