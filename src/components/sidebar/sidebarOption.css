@@ -1,35 +1,35 @@
-.sidebar-option-contenier{
-    color: gray; 
+.sidebar-option-contenier {
+    color: gray;
     height: 40px;
     cursor: pointer;
     transition: 200ms color ease-in;
     display: flex;
     padding-left: 10px;
     align-items: center;
-}  
+}
 
-.sidebar-option-contenier:hover{
+.sidebar-option-contenier:hover {
     color: white;
 }
 
-.sidebarOption-icon{
+.sidebarOption-icon {
     padding-right: 10px;
 }
 
-.sidebarOption-icon-img{
+.sidebarOption-icon-img {
     margin-top: 10px;
-    object-fit:cover;
+    object-fit: cover;
     border-radius: 50%;
     margin-right: 10px;
     width: 30px;
     height: 30px;
 }
 
-.sidebarOption-icon-img:hover{
+.sidebarOption-icon-img:hover {
     color: white;
 }
 
-.sidebar-option-contenier > p{
+.sidebar-option-contenier>p {
     margin-top: 10px;
     margin-left: 20px;
     font-size: 15px;

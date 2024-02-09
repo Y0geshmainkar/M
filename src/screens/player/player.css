@@ -8,3 +8,8 @@
     height: 100vh;
     background: linear-gradient(rgb(91, 87, 115), rgba(0,0,0,1));
 }
+
+.body_cover_pic{
+    height: 100px;
+    width: 100px;
+}
